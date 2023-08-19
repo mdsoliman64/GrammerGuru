@@ -1,0 +1,21 @@
+
+body{
+    background-image: url("/public/pattern.png");
+    background-size: cover;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+}
+.cat-container {
+    background-image: url("/public/bg.png");
+    background-size: cover;
+    background-position: center;
+    max-width: 80%;
+    margin: 40px auto;
+    border-radius:25px ;
+    color:white;
+    padding: 40px;
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;    
+  }
